@@ -1,0 +1,19 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:10010
+  Network URL: http://192.168.1.6:10010
+
+  For better performance, install the Watchdog module:
+
+  $ xcode-select --install
+  $ pip install watchdog
+            
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+

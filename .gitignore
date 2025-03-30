@@ -1,0 +1,7 @@
+building_graph_rag/server/index/building_rag.faiss/index.faiss
+neo4j-community-4.4.26/data/transactions/neo4j/neostore.transaction.db.0
+building_graph_rag/server/index/building_rag.faiss/index.pkl
+*.faiss
+neo4j-community-4.4.26/data/
+*.jar
+*.pkl

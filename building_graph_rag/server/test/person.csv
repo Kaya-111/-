@@ -1,0 +1,4 @@
+Entity1, Relationship, Entity2, RelationshipProperty
+Alice, FRIEND, Bob, since_2020
+Bob, WORKS_WITH, Charlie, project_X
+Alice, FRIEND, Charlie, since_2021
